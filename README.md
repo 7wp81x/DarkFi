@@ -1,7 +1,7 @@
 # DarkFi
 DarkFi is an simple tool to host fake cative portal on android with the help of ESP8266 and Termux app without root access.
 <p align="center">
-  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/11/ESP8266-12E-NodeMCU-kit-development-board.jpg?w=120&quality=100&strip=all&ssl=1">
+  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/11/ESP8266-12E-NodeMCU-kit-development-board.jpg?w=620&quality=100&strip=all&ssl=1">
 </p><br>
 
 ## Disclaimer
