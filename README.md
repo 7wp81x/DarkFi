@@ -7,7 +7,7 @@ This project is for testing and educational purposes. Use this on your own devic
 This is basically fake captive portal for NodeMCU (ESP8266 Module) with DNS spoofing. When you are connected to the AP It ask for social media credential in exchange of "FREE INTERNET ACCESS" it also allows you to host and display your own pages to captive portal without having root acess.
 ### How it works?
 <p>
-Simple. The ESP8266 creates a captive portal, then the captive portal redirects all clients to a local IP address which where the webpages is hosted (192.168.0.100:8080).
+Simple. The ESP8266 creates a captive portal, then the captive portal redirects all clients to a local IP address which where the webpages is hosted **(192.168.0.100:8080)**.
 Instead of displaying the webpages that inside ESP8266 which is ugly because you need to flash again to change the page. So why not redirect it to a local IP then host pages there.
 </p>
 
