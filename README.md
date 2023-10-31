@@ -1,7 +1,7 @@
-<center><h1 style="font-size: 30px;">DarkFi</h1></center>
+# DarkFi
 
 ## Disclaimer
-This project is for testing and educational purposes. Use this on your own device or network. I don't take any responsibility for what you do with this program.
+**This project is for testing and educational purposes. Use this on your own device or network. I don't take any responsibility for what you do with this program.**
 
 ## About this project
 This is basically fake captive portal for NodeMCU (ESP8266 Module) with DNS spoofing. When you are connected to the AP It ask for social media credential in exchange of "**FREE INTERNET ACCESS**" it also allows you to host and display your own pages to captive portal without having root acess.
