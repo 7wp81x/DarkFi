@@ -1,12 +1,15 @@
 # DarkFi
-DarkFi is an simple tool to host fake cative portal on android with the help of ESP8266 and Termux app without root access.
-<p align="center">
-  <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/11/ESP8266-12E-NodeMCU-kit-development-board.jpg?w=620&quality=100&strip=all&ssl=1">
-</p><br>
 
 ## Disclaimer
-This project is for testing and educational purposes. I don't take any responsibility for what you do with this program.
+This project is for testing and educational purposes. Use this on your own device or network. I don't take any responsibility for what you do with this program.
 
+## About this project
+This is basically fake captive portal for NodeMCU (ESP8266 Module) with DNS spoofing. When you are connected to the AP It ask for social media credential in exchange of "FREE INTERNET ACCESS" it also allows you to host and display your own pages to captive portal without having root acess.
+### How it works?
+<p>
+Simple. The ESP8266 creates a captive portal, then the captive portal redirects all clients to a local IP address which where the webpages is hosted (192.168.0.100:8080).
+Instead of displaying the webpages that inside ESP8266 which is ugly because you need to flash again to change the page. So why not redirect it to a local IP then host pages there.
+</p>
 
 ## Features
 - Change ESP8266 SSID
