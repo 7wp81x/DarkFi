@@ -34,12 +34,12 @@ Instead of displaying the webpages that inside ESP8266 which is ugly because you
 # Esp8266 Setup
 ### Flash using windows
 1. Download ESP8266 [Flash Download Tools](https://www.espressif.com/en/support/download/other-tools).
-2. Flash the `DarkFi.bin` to your ESP8266.
+2. Flash the `bin/DarkFi.bin` to your ESP8266.
 
 ### Flash using Android
 1. Download [ESP8266 Loader](https://apkpure.com/esp8266-loader-blynk-uploader/com.bluino.esploader)
 2. Connect to esp8266 using OTG cable
-3. Upload the `DarkFi.bin`
+3. Upload the `bin/DarkFi.bin`
 
 # Termux setup
 ```pkg install git python python-pip -y
