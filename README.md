@@ -1,10 +1,11 @@
 # DarkFi
+Its like WiFi Pineapple but for only 2$
 
 ## Disclaimer!!!
 **This project is for testing and educational purposes. Use this on your own device or network. I don't take any responsibility for what you do with this program.**
 
 ## About this project
-This is basically fake captive portal for NodeMCU (ESP8266 Module) with DNS spoofing. When you are connected to the AP It ask for social media credential in exchange of "**FREE INTERNET ACCESS**" it also allows you to host and display your own pages to captive portal without having root acess.
+This is basically fake captive portal for NodeMCU (ESP8266 Module) with DNS spoofing. It has functionality simillar to the Wifi Pineapple's Evil Portal attack. When you are connected to the AP It ask for social media credential in exchange of **FREE INTERNET ACCESS** it also allows you to host and display your own pages to captive portal without having root acess.
 ### How it works?
 <p>
 Simple. The ESP8266 creates a captive portal, then the captive portal redirects all clients to a local IP address which where the webpages is hosted **(192.168.0.100:8080)**.
@@ -47,3 +48,4 @@ git clone https://github.com/Mrp1r4t3/DarkFi
 cd DarkFi/
 sh install.sh
 ```
+### If you can't buy one... then make one.
