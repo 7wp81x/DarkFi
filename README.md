@@ -25,9 +25,9 @@ Instead of displaying the webpages that inside ESP8266 which is ugly because you
     <th>Main Captive portal page</th>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Mrp1r4t3/DarkFi/main/screenshots/src1.jpg" title="menu"></td>
-    <td><img src="https://raw.githubusercontent.com/Mrp1r4t3/DarkFi/main/screenshots/src2.jpg" title="log"></td>
-    <td><img src="https://raw.githubusercontent.com/Mrp1r4t3/DarkFi/main/screenshots/src3.jpg" title="page"></td>
+    <td><img src="https://raw.githubusercontent.com/7wp81x/DarkFi/main/screenshots/src1.jpg" title="menu"></td>
+    <td><img src="https://raw.githubusercontent.com/7wp81x/DarkFi/main/screenshots/src2.jpg" title="log"></td>
+    <td><img src="https://raw.githubusercontent.com/7wp81x/DarkFi/main/screenshots/src3.jpg" title="page"></td>
   </tr>
 </table>
 
@@ -44,8 +44,8 @@ Instead of displaying the webpages that inside ESP8266 which is ugly because you
 
 # Termux setup
 ```pkg install git python python-pip -y
-git clone https://github.com/Mrp1r4t3/DarkFi
+git clone https://github.com/7wp81x/DarkFi
 cd DarkFi/
-sh install.sh
+bash install.sh
 ```
 ### If you can't buy one... then make one.
